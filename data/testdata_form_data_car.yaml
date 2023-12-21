@@ -1,0 +1,241 @@
+url: https://carteca.ru/
+font: TT Norms
+title_thank_you_page: Благодарим за доверие!
+title_policy_page: Политика конфиденциальности
+title_form_car_page: Заполните простую форму с данными о вашем авто
+font_size_title_form_car_page: 24px
+font_color_title_form_car_page: rgba(39, 39, 39, 1)
+subtitle_form_car_page: Мы выкупим его в любом состоянии дорого
+font_size_subtitle_form_car_page: 20px
+font_color_subtitle_form_car_page: rgba(39, 39, 39, 1)
+height_field_brand_forma_car_page: 70px
+width_field_brand_forma_car_page: 287px
+field_brand_text_form_car_page: Напишите марку и модель
+font_size_field_brand_text_form_car_page: 16px
+font_color_field_brand_text_form_car_page: rgba(39, 39, 39, 1)
+background_color_field_brand_text_form_car_page: rgba(245, 244, 244, 1)
+type_cursor_field_brand_forms_car_page: text
+height_field_year_forma_car_page: 70px
+width_field_year_forma_car_page: 287px
+field_year_text_form_car_page: Укажите год выпуска
+font_size_field_year_text_form_car_page: 16px
+font_color_field_year_text_form_car_page: rgba(39, 39, 39, 1)
+background_color_field_year_text_form_car_page: rgba(245, 244, 244, 1)
+type_cursor_field_year_forms_car_page: text
+height_field_phone_forma_car_page: 70px
+width_field_phone_forma_car_page: 287px
+field_phone_text_form_car_page: +7 (999) 999-99-99
+font_size_field_phone_text_form_car_page: 16px
+font_color_field_phone_text_form_car_page: rgba(39, 39, 39, 1)
+background_color_field_phone_text_form_car_page: rgba(245, 244, 244, 1)
+type_cursor_field_phone_forms_car_page: text
+title_btn_sell_forms_car_page: Продать авто дорого
+font_size_title_btn_sell_forms_car_page: 18px
+font_color_title_btn_sell_forms_car_page: rgba(255, 255, 255, 1)
+background_color_btn_sell_forms_car_page_not_cursor: rgb(121, 207, 135) 12.81%, rgb(134, 236, 199) 90.2%
+background_color_btn_sell_forms_car_page_with_cursor: rgb(134, 236, 199) 12.81%, rgb(121, 207, 135) 90.2%
+height_btn_sell_forms_car_page: 70px
+width_btn_sell_forms_car_page: 287px
+type_cursor_btn_sell_forms_car_page: pointer
+title_btn_policy_forma_car_page: Я согласен на обработку моих персональных данных согласно условиям политики конфиденциальности
+font_size_title_btn_policy_forma_car_page: 14px
+font_color_title_btn_policy_forma_car_page: rgba(140, 140, 140, 1)
+type_cursor_btn_policy_forms_car_page: pointer
+title_checkbox_dtp_forms_car_page: После ДТП
+font_size_title_checkbox_dtp_forms_car_page: 16px
+font_color_title_checkbox_dtp_forms_car_page: rgba(0, 0, 0, 1)
+type_cursor_checkbox_dtp_forms_car_page: pointer
+title_checkbox_broken_forms_car_page: Не на ходу
+font_size_title_checkbox_broken_forms_car_page: 16px
+font_color_title_checkbox_broken_forms_car_page: rgba(0, 0, 0, 1)
+type_cursor_checkbox_broken_forms_car_page: pointer
+title_checkbox_credit_forms_car_page: Кредитная
+font_size_title_checkbox_credit_forms_car_page: 16px
+font_color_title_checkbox_credit_forms_car_page: rgba(0, 0, 0, 1)
+type_cursor_checkbox_credit_forms_car_page: pointer
+title_checkbox_ban_forms_car_page: Запрет
+font_size_title_checkbox_ban_forms_car_page: 16px
+font_color_title_checkbox_ban_forms_car_page: rgba(0, 0, 0, 1)
+type_cursor_checkbox_ban_forms_car_page: pointer
+td_negative_var1_field_brand_forms_car_page: ''
+td_negative_var1_field_year_forms_car_page: '2023'
+td_negative_var1_field_phone_forms_car_page: '+79123456789'
+td_negative_var1_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var1_checked_broken_forms_car_page: 'checked'
+td_negative_var1_checked_credit_forms_car_page: 'checked'
+td_negative_var1_checked_ban_forms_car_page: 'unchecked'
+td_negative_var2_field_brand_forms_car_page: 'фоаргувдмтквоарчднгщуцытаьпзеыратучразпайфтверымткв'
+td_negative_var2_field_year_forms_car_page: '2023'
+td_negative_var2_field_phone_forms_car_page: '+79123456789'
+td_negative_var2_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var2_checked_broken_forms_car_page: 'checked'
+td_negative_var2_checked_credit_forms_car_page: 'checked'
+td_negative_var2_checked_ban_forms_car_page: 'checked'
+td_negative_var3_field_brand_forms_car_page: 'hCrZXfRФТnКeZTЩPЪBqC'
+td_negative_var3_field_year_forms_car_page: '202'
+td_negative_var3_field_phone_forms_car_page: '+79123456789'
+td_negative_var3_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var3_checked_broken_forms_car_page: 'unchecked'
+td_negative_var3_checked_credit_forms_car_page: 'checked'
+td_negative_var3_checked_ban_forms_car_page: 'checked'
+td_negative_var4_field_brand_forms_car_page: 'hCrZXfRФТnКeZTЩPЪBqC'
+td_negative_var4_field_year_forms_car_page: '20230'
+td_negative_var4_field_phone_forms_car_page: '+79123456789'
+td_negative_var4_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var4_checked_broken_forms_car_page: 'checked'
+td_negative_var4_checked_credit_forms_car_page: 'unchecked'
+td_negative_var4_checked_ban_forms_car_page: 'unchecked'
+td_negative_var5_field_brand_forms_car_page: 'zPYР8ЬАVМJuЧОqh5ХU8Н'
+td_negative_var5_field_year_forms_car_page: '1899'
+td_negative_var5_field_phone_forms_car_page: '+79123456789'
+td_negative_var5_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var5_checked_broken_forms_car_page: 'checked'
+td_negative_var5_checked_credit_forms_car_page: 'unchecked'
+td_negative_var5_checked_ban_forms_car_page: 'checked'
+td_negative_var6_field_brand_forms_car_page: 'олды4шкло15ыа4843ва8'
+td_negative_var6_field_year_forms_car_page: '3001'
+td_negative_var6_field_phone_forms_car_page: '+79123456789'
+td_negative_var6_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var6_checked_broken_forms_car_page: 'unchecked'
+td_negative_var6_checked_credit_forms_car_page: 'unchecked'
+td_negative_var6_checked_ban_forms_car_page: 'checked'
+td_negative_var7_field_brand_forms_car_page: 'YНiQЦPХusЛmРqaЯБrSЧe'
+td_negative_var7_field_year_forms_car_page: '2023'
+td_negative_var7_field_phone_forms_car_page: '+7912345678'
+td_negative_var7_checked_dtp_forms_car_page: 'checked'
+td_negative_var7_checked_broken_forms_car_page: 'unchecked'
+td_negative_var7_checked_credit_forms_car_page: 'checked'
+td_negative_var7_checked_ban_forms_car_page: 'checked'
+td_negative_var8_field_brand_forms_car_page: 'etjYusmTqEAaHsHkHRCS'
+td_negative_var8_field_year_forms_car_page: '2023'
+td_negative_var8_field_phone_forms_car_page: '+791234567895'
+td_negative_var8_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var8_checked_broken_forms_car_page: 'checked'
+td_negative_var8_checked_credit_forms_car_page: 'checked'
+td_negative_var8_checked_ban_forms_car_page: 'checked'
+td_negative_var9_field_brand_forms_car_page: '15894561351846513294'
+td_negative_var9_field_year_forms_car_page: '2023'
+td_negative_var9_field_phone_forms_car_page: '+79123456789'
+td_negative_var9_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var9_checked_broken_forms_car_page: 'checked'
+td_negative_var9_checked_credit_forms_car_page: 'unchecked'
+td_negative_var9_checked_ban_forms_car_page: 'checked'
+td_negative_var10_field_brand_forms_car_page: 'олды4шкло15ыа4843ва8'
+td_negative_var10_field_year_forms_car_page: '!@$%'
+td_negative_var10_field_phone_forms_car_page: '+79123456789'
+td_negative_var10_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var10_checked_broken_forms_car_page: 'unchecked'
+td_negative_var10_checked_credit_forms_car_page: 'unchecked'
+td_negative_var10_checked_ban_forms_car_page: 'checked'
+td_negative_var11_field_brand_forms_car_page: 'YНiQЦPХusЛmРqaЯБrSЧe'
+td_negative_var11_field_year_forms_car_page: '2023'
+td_negative_var11_field_phone_forms_car_page: '+7воылвчтаыв'
+td_negative_var11_checked_dtp_forms_car_page: 'checked'
+td_negative_var11_checked_broken_forms_car_page: 'unchecked'
+td_negative_var11_checked_credit_forms_car_page: 'checked'
+td_negative_var11_checked_ban_forms_car_page: 'checked'
+td_negative_var12_field_brand_forms_car_page: 'etjYusmTqEAaHsHkHRCS'
+td_negative_var12_field_year_forms_car_page: '2023'
+td_negative_var12_field_phone_forms_car_page: '891234567895'
+td_negative_var12_checked_dtp_forms_car_page: 'unchecked'
+td_negative_var12_checked_broken_forms_car_page: 'checked'
+td_negative_var12_checked_credit_forms_car_page: 'checked'
+td_negative_var12_checked_ban_forms_car_page: 'checked'
+td_positive_var1_field_brand_forms_car_page: 'v'
+td_positive_var1_field_year_forms_car_page: '2023'
+td_positive_var1_field_phone_forms_car_page: '+79123456789'
+td_positive_var1_checked_dtp_forms_car_page: 'checked'
+td_positive_var1_checked_broken_forms_car_page: 'unchecked'
+td_positive_var1_checked_credit_forms_car_page: 'unchecked'
+td_positive_var1_checked_ban_forms_car_page: 'unchecked'
+td_positive_var2_field_brand_forms_car_page: 'волеквтпвдцчтвоарц125486аы4ач1ф2а3у5п6цвпрн745и2ве'
+td_positive_var2_field_year_forms_car_page: '2023'
+td_positive_var2_field_phone_forms_car_page: '+79123456789'
+td_positive_var2_checked_dtp_forms_car_page: 'checked'
+td_positive_var2_checked_broken_forms_car_page: 'checked'
+td_positive_var2_checked_credit_forms_car_page: 'unchecked'
+td_positive_var2_checked_ban_forms_car_page: 'checked'
+td_positive_var3_field_brand_forms_car_page: 'qBbo7kR2jm726bdJtOGJ'
+td_positive_var3_field_year_forms_car_page: '2023'
+td_positive_var3_field_phone_forms_car_page: '+79123456789'
+td_positive_var3_checked_dtp_forms_car_page: 'checked'
+td_positive_var3_checked_broken_forms_car_page: 'checked'
+td_positive_var3_checked_credit_forms_car_page: 'checked'
+td_positive_var3_checked_ban_forms_car_page: 'checked'
+td_positive_var4_field_brand_forms_car_page: 'ышетылаовщкаоыьащкоы'
+td_positive_var4_field_year_forms_car_page: '1900'
+td_positive_var4_field_phone_forms_car_page: '+79123456789'
+td_positive_var4_checked_dtp_forms_car_page: 'checked'
+td_positive_var4_checked_broken_forms_car_page: 'unchecked'
+td_positive_var4_checked_credit_forms_car_page: 'unchecked'
+td_positive_var4_checked_ban_forms_car_page: 'unchecked'
+td_positive_var5_field_brand_forms_car_page: '5vовлвокjeiskt1485dв'
+td_positive_var5_field_year_forms_car_page: '3000'
+td_positive_var5_field_phone_forms_car_page: '+79123456789'
+td_positive_var5_checked_dtp_forms_car_page: 'checked'
+td_positive_var5_checked_broken_forms_car_page: 'unchecked'
+td_positive_var5_checked_credit_forms_car_page: 'checked'
+td_positive_var5_checked_ban_forms_car_page: 'unchecked'
+td_positive_var6_field_brand_forms_car_page: 'v45sg45rsh5d6esg4d2s'
+td_positive_var6_field_year_forms_car_page: '2023'
+td_positive_var6_field_phone_forms_car_page: '+79123456789'
+td_positive_var6_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var6_checked_broken_forms_car_page: 'unchecked'
+td_positive_var6_checked_credit_forms_car_page: 'unchecked'
+td_positive_var6_checked_ban_forms_car_page: 'unchecked'
+td_positive_var7_field_brand_forms_car_page: 'адлк45вм12суе3ыа5ец4'
+td_positive_var7_field_year_forms_car_page: '2023'
+td_positive_var7_field_phone_forms_car_page: '+79123456789'
+td_positive_var7_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var7_checked_broken_forms_car_page: 'checked'
+td_positive_var7_checked_credit_forms_car_page: 'checked'
+td_positive_var7_checked_ban_forms_car_page: 'unchecked'
+td_positive_var8_field_brand_forms_car_page: 'ьфоалвшатылкытлйцуза'
+td_positive_var8_field_year_forms_car_page: '2023'
+td_positive_var8_field_phone_forms_car_page: '+79123456789'
+td_positive_var8_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var8_checked_broken_forms_car_page: 'checked'
+td_positive_var8_checked_credit_forms_car_page: 'checked'
+td_positive_var8_checked_ban_forms_car_page: 'checked'
+td_positive_var9_field_brand_forms_car_page: 'kdoолволщфыджлmqweri'
+td_positive_var9_field_year_forms_car_page: '2023'
+td_positive_var9_field_phone_forms_car_page: '+79123456789'
+td_positive_var9_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var9_checked_broken_forms_car_page: 'unchecked'
+td_positive_var9_checked_credit_forms_car_page: 'checked'
+td_positive_var9_checked_ban_forms_car_page: 'checked'
+td_positive_var10_field_brand_forms_car_page: 'kdoолволщфыджлmqweri'
+td_positive_var10_field_year_forms_car_page: '2023'
+td_positive_var10_field_phone_forms_car_page: '+79123456789'
+td_positive_var10_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var10_checked_broken_forms_car_page: 'checked'
+td_positive_var10_checked_credit_forms_car_page: 'unchecked'
+td_positive_var10_checked_ban_forms_car_page: 'unchecked'
+td_positive_var11_field_brand_forms_car_page: 'jkdirjk148dcыфвуds23'
+td_positive_var11_field_year_forms_car_page: '2023'
+td_positive_var11_field_phone_forms_car_page: '+79123456789'
+td_positive_var11_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var11_checked_broken_forms_car_page: 'checked'
+td_positive_var11_checked_credit_forms_car_page: 'unchecked'
+td_positive_var11_checked_ban_forms_car_page: 'checked'
+td_positive_var12_field_brand_forms_car_page: 'олвоа45в6е4в5м2выеур'
+td_positive_var12_field_year_forms_car_page: '2023'
+td_positive_var12_field_phone_forms_car_page: '+79123456789'
+td_positive_var12_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var12_checked_broken_forms_car_page: 'unchecked'
+td_positive_var12_checked_credit_forms_car_page: 'unchecked'
+td_positive_var12_checked_ban_forms_car_page: 'checked'
+td_positive_var13_field_brand_forms_car_page: 'kdoолволщфыджлmqweri'
+td_positive_var13_field_year_forms_car_page: '2023'
+td_positive_var13_field_phone_forms_car_page: '+79123456789'
+td_positive_var13_checked_dtp_forms_car_page: 'checked'
+td_positive_var13_checked_broken_forms_car_page: 'unchecked'
+td_positive_var13_checked_credit_forms_car_page: 'checked'
+td_positive_var13_checked_ban_forms_car_page: 'checked'
+td_positive_var14_field_brand_forms_car_page: 'etjYusmTqEAaHsHkHRCS'
+td_positive_var14_field_year_forms_car_page: '2023'
+td_positive_var14_field_phone_forms_car_page: '+79123456789'
+td_positive_var14_checked_dtp_forms_car_page: 'unchecked'
+td_positive_var14_checked_broken_forms_car_page: 'checked'
+td_positive_var14_checked_credit_forms_car_page: 'checked'
+td_positive_var14_checked_ban_forms_car_page: 'checked'

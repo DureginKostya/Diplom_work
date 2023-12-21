@@ -1,0 +1,67 @@
+url: https://carteca.ru/
+font: TT Norms
+title_territory: Выезд в любую точку по Нижегородской области
+font_size_title_territory: 50px
+font_color_title_territory: rgba(255, 255, 255, 1)
+font_size_title_cities: 18px
+font_color_title_cities: rgba(255, 255, 255, 1)
+title_field_phone: Оставьте ваш телефон для выкупа автомобиля
+font_size_title_field_phone: 20px
+font_color_title_field_phone: rgba(255, 255, 255, 1)
+title_btn_sell: Продать авто дорого
+font_size_title_btn_sell: 18px
+font_color_title_btn_sell: rgba(255, 255, 255, 1)
+background_color_btn_sell_not_cursor: rgb(121, 207, 135) 12.81%, rgb(134, 236, 199) 90.2%
+background_color_btn_sell_with_cursor: rgb(134, 236, 199) 12.81%, rgb(121, 207, 135) 90.2%
+height_btn_sell: 78px
+width_btn_sell: 295px
+type_cursor_btn_sell: pointer
+height_field_phone: 92px
+width_field_phone: 588px
+field_phone_text: +7 (999) 999-99-99
+font_size_field_phone_text: 20px
+font_color_field_phone_text: rgba(39, 39, 39, 1)
+background_color_field_phone: rgba(255, 255, 255, 1)
+type_cursor_field_phone_text: text
+title_btn_policy: Я согласен на обработку моих персональных данных согласно условиям политики конфиденциальности
+font_size_title_btn_policy: 16px
+font_color_title_btn_policy: rgba(255, 255, 255, 1)
+type_cursor_btn_policy: pointer
+title_thank_you_page: Благодарим за доверие!
+title_policy_page: Политика конфиденциальности
+test_data_positive_var1_field_phone: '+79123456782'
+test_data_negative_var1_field_phone: '+7912345678'
+test_data_negative_var2_field_phone: '+791234567895'
+test_data_negative_var3_field_phone: '+7ыавсмневый'
+test_data_negative_var4_field_phone: '+7argfbjiofd'
+test_data_negative_var5_field_phone: '+7!@#$%#@%$!'
+test_data_negative_var6_field_phone: '892153487923'
+list_cities:
+  0: Арзамас
+  1: Володарск
+  2: Дзержинск
+  3: Лукоянов
+  4: Первомайск
+  5: Урень
+  6: Балахна
+  7: Ворсма
+  8: Заволжье
+  9: Лысково
+  10: Перевоз
+  11: Чкаловск
+  12: Богородск
+  13: Выкса
+  14: Княгинино
+  15: Навашино
+  16: Саров
+  17: Шахунья
+  18: Бор
+  19: Горбатов
+  20: Кстово
+  21: Нижний Новгород
+  22: Семёнов
+  23: Ветлуга
+  24: Городец
+  25: Кулебаки
+  26: Павлово
+  27: Сергач

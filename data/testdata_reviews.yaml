@@ -1,0 +1,194 @@
+url: https://carteca.ru/
+font: TT Norms
+title_reviews: Отзывы владельцев и их выкупленные автомобили
+font_size_title_ransom_all: 50px
+font_color_title_ransom_all: rgba(39, 39, 39, 1)
+height_slider_btn: 15px
+width_slider_btn: 15px
+slider_1_color: rgba(83, 170, 227, 1)
+title_block_review_1: Оксана Nissan Juke
+font_size_title_block_review_1: 24px
+font_color_title_block_review_1: rgba(39, 39, 39, 1)
+text_review_1: Купила год назад ниссан жук в кредит, но в пандемию доходы упали и никак не хотели возвращаться на прежний уровень - кредит стал очень некомфортным( Продать на авито или авто.ру кредитный автомобиль оказалось просто нереально. Знакомые подсказали обратиться в автовыкуп - решила попробовать. Компаний по выкупу в Нижнем Новгороде очень много, позвонила в несколько - и мне не понравилось как со мной вели диалог. По счастливому стечению обстоятельств, я попала на сайт Картека и оставила заявку на выкуп. Со мной сразу же связались по телефону - проконсультировали как и в какие сроки я смогу продать свой ниссан. На удивление предложеная цена оказалась самой высокой, из того что мне предлагали ранее. И я решила не откладывая распрощаться с машинкой в этот же день, и мне это удалось) Думала будут какой-то подвох, но оказалось, что зря. При встрече всё прошло быстро и максимально комфортно. Я очень рада, что Картека помогла мне в разрешении моей авто-проблемы. Спасибо этому сервису.
+font_size_text_review_1: 18px
+font_color_text_review_1: rgba(39, 39, 39, 1)
+title_btn_expand_review_1: Читать отзыв полностью
+font_size_title_btn_expand_review_1: 18px
+font_color_title_btn_expand_review_1: rgba(83, 170, 227, 1)
+title_full_review_1: Оксана Nissan Juke
+link_image_review_1: https://carteca.ru/wp-content/themes/carteca/media/reviews/car-1.jpeg
+title_price_karteka_1: 'Цена через Картеку:'
+font_size_title_price_karteka_1: 18px
+font_color_title_price_karteka_1: rgba(0, 0, 0, 1)
+price_karteka_1: 830 000 ₽
+font_size_price_karteka_1: 30px
+font_color_price_karteka_1: rgba(39, 39, 39, 1)
+title_price_other_1: 'Цена через других:'
+font_size_title_price_other_1: 14px
+font_color_title_price_other_1: rgba(39, 39, 39, 1)
+price_other_1: 730 000 ₽
+font_size_price_other_1: 20px
+font_color_price_other_1: rgba(39, 39, 39, 1)
+slider_2_color: rgba(83, 170, 227, 1)
+title_block_review_2: Дмитрий Volkswagen Polo
+font_size_title_block_review_2: 24px
+font_color_title_block_review_2: rgba(39, 39, 39, 1)
+text_review_2: Хотел сдать автомобиль в трейд-ин при покупке нового рено Каптур, за что в салоне мне обещали весьма скромную выгоду в размере 40 000 рублей, при этом мой поло оценили на мой взгляд тысяч на 90 ниже рынка. Решил, что смогу самостоятельно продать свой авто, но нужно было действовать быстро - так как забронировал в салоне Каптур в нужном мне цвете и комплектации и срок брони истекал. Обратился по телефону в Картеку, мою заявку приняли и в течение 10-15 минут мне предложили цену на 60 тысяч выше трейд-ина. Конечно же я согласился. Я получил реальную выгоду, а не выдуманную трейдиновскую в автосалоне. Спасибо!
+font_size_text_review_2: 18px
+font_color_text_review_2: rgba(39, 39, 39, 1)
+title_btn_expand_review_2: Читать отзыв полностью
+font_size_title_btn_expand_review_2: 18px
+font_color_title_btn_expand_review_2: rgba(83, 170, 227, 1)
+title_full_review_2: Дмитрий Volkswagen Polo
+link_image_review_2: https://carteca.ru/wp-content/themes/carteca/media/reviews/car-2.jpeg
+title_price_karteka_2: 'Цена через Картеку:'
+font_size_title_price_karteka_2: 18px
+font_color_title_price_karteka_2: rgba(0, 0, 0, 1)
+price_karteka_2: 493 000 ₽
+font_size_price_karteka_2: 30px
+font_color_price_karteka_2: rgba(39, 39, 39, 1)
+title_price_other_2: 'Цена через других:'
+font_size_title_price_other_2: 14px
+font_color_title_price_other_2: rgba(39, 39, 39, 1)
+price_other_2: 450 000 ₽
+font_size_price_other_2: 20px
+font_color_price_other_2: rgba(39, 39, 39, 1)
+slider_3_color: rgba(83, 170, 227, 1)
+title_block_review_3: Михаил Honda Civic
+font_size_title_block_review_3: 24px
+font_color_title_block_review_3: rgba(39, 39, 39, 1)
+text_review_3: Благодарен сервису Картеку и отдельное спасибо менеджеру Алле, которая максимально подробно проконсультировала меня при подаче заявки. Машину продал, деньги получил!
+font_size_text_review_3: 18px
+font_color_text_review_3: rgba(39, 39, 39, 1)
+title_btn_expand_review_3: Читать отзыв полностью
+font_size_title_btn_expand_review_3: 18px
+font_color_title_btn_expand_review_3: rgba(83, 170, 227, 1)
+title_full_review_3: Михаил Honda Civic
+link_image_review_3: https://carteca.ru/wp-content/themes/carteca/media/reviews/car-3.jpeg
+title_price_karteka_3: 'Цена через Картеку:'
+font_size_title_price_karteka_3: 18px
+font_color_title_price_karteka_3: rgba(0, 0, 0, 1)
+price_karteka_3: 830 000 ₽
+font_size_price_karteka_3: 30px
+font_color_price_karteka_3: rgba(39, 39, 39, 1)
+title_price_other_3: 'Цена через других:'
+font_size_title_price_other_3: 14px
+font_color_title_price_other_3: rgba(39, 39, 39, 1)
+price_other_3: 760 000 ₽
+font_size_price_other_3: 20px
+font_color_price_other_3: rgba(39, 39, 39, 1)
+slider_4_color: rgba(83, 170, 227, 1)
+title_block_review_4: Сергей Citroen C4
+font_size_title_block_review_4: 24px
+font_color_title_block_review_4: rgba(39, 39, 39, 1)
+text_review_4: Очень срочно нужно было получить определенную сумму денег. Скатался в 2 автосалона и понял - что осмотр и оценка авто занимают жуткое колическтво времени, а результат оценки - однозначно сильно занижен. Нашел в интернете сайт по подбору лучшего автовыкупа - картека, без особой надежды отправил заявку. И уже буквально через пару минут со мной связались и озвучили именно ту сумму, на которую я и рассчитывал. А уже через час я с деньгами и в такси ехал по своим делам. Можно смело обращаться в компанию!
+font_size_text_review_4: 18px
+font_color_text_review_4: rgba(39, 39, 39, 1)
+title_btn_expand_review_4: Читать отзыв полностью
+font_size_title_btn_expand_review_4: 18px
+font_color_title_btn_expand_review_4: rgba(83, 170, 227, 1)
+title_full_review_4: Сергей Citroen C4
+link_image_review_4: https://carteca.ru/wp-content/themes/carteca/media/reviews/car-4.jpeg
+title_price_karteka_4: 'Цена через Картеку:'
+font_size_title_price_karteka_4: 18px
+font_color_title_price_karteka_4: rgba(0, 0, 0, 1)
+price_karteka_4: 200 000 ₽
+font_size_price_karteka_4: 30px
+font_color_price_karteka_4: rgba(39, 39, 39, 1)
+title_price_other_4: 'Цена через других:'
+font_size_title_price_other_4: 14px
+font_color_title_price_other_4: rgba(39, 39, 39, 1)
+price_other_4: 175 000 ₽
+font_size_price_other_4: 20px
+font_color_price_other_4: rgba(39, 39, 39, 1)
+slider_5_color: rgba(83, 170, 227, 1)
+title_block_review_5: Александр Skoda Kodiaq
+font_size_title_block_review_5: 24px
+font_color_title_block_review_5: rgba(39, 39, 39, 1)
+text_review_5: Разбил свою шкоду 2018 года выпуска. И мне подсказали, если разместить битую на авито - то цену придется сильно занизить - ведь все фото сохраняются в истории, и никто потом не хочет покупать хоть и восстановленный, но когда-то разбитый авто. Решил воспользоваться услугами Картеки - и сделал правильный выбор. Плюс мне не пришлось тратить деньги на эвакуатор и платную стоянку. Рекомендую.
+font_size_text_review_5: 18px
+font_color_text_review_5: rgba(39, 39, 39, 1)
+title_btn_expand_review_5: Читать отзыв полностью
+font_size_title_btn_expand_review_5: 18px
+font_color_title_btn_expand_review_5: rgba(83, 170, 227, 1)
+title_full_review_5: Александр Skoda Kodiaq
+link_image_review_5: https://carteca.ru/wp-content/themes/carteca/media/reviews/car-5.jpeg
+title_price_karteka_5: 'Цена через Картеку:'
+font_size_title_price_karteka_5: 18px
+font_color_title_price_karteka_5: rgba(0, 0, 0, 1)
+price_karteka_5: 1 520 000 ₽
+font_size_price_karteka_5: 30px
+font_color_price_karteka_5: rgba(39, 39, 39, 1)
+title_price_other_5: 'Цена через других:'
+font_size_title_price_other_5: 14px
+font_color_title_price_other_5: rgba(39, 39, 39, 1)
+price_other_5: 1 380 000 ₽
+font_size_price_other_5: 20px
+font_color_price_other_5: rgba(39, 39, 39, 1)
+slider_6_color: rgba(83, 170, 227, 1)
+title_block_review_6: Владимир Toyota Land Cruiser
+font_size_title_block_review_6: 24px
+font_color_title_block_review_6: rgba(39, 39, 39, 1)
+text_review_6: Мне некогда ездить по салонам и трейд-инам, нет желания обзванивать бесконечные автовыкупы, задающие одни и те же вопросы. Через Картеку - я в день звонка получил подходящее предложение. Продал свой LC200 за пару часов. Благодарю.
+font_size_text_review_6: 18px
+font_color_text_review_6: rgba(39, 39, 39, 1)
+title_btn_expand_review_6: Читать отзыв полностью
+font_size_title_btn_expand_review_6: 18px
+font_color_title_btn_expand_review_6: rgba(83, 170, 227, 1)
+title_full_review_6: Владимир Toyota Land Cruiser
+link_image_review_6: https://carteca.ru/wp-content/themes/carteca/media/reviews/car-6.jpeg
+title_price_karteka_6: 'Цена через Картеку:'
+font_size_title_price_karteka_6: 18px
+font_color_title_price_karteka_6: rgba(0, 0, 0, 1)
+price_karteka_6: 2 470 000 ₽
+font_size_price_karteka_6: 30px
+font_color_price_karteka_6: rgba(39, 39, 39, 1)
+title_price_other_6: 'Цена через других:'
+font_size_title_price_other_6: 14px
+font_color_title_price_other_6: rgba(39, 39, 39, 1)
+price_other_6: 2 200 000 ₽
+font_size_price_other_6: 20px
+font_color_price_other_6: rgba(39, 39, 39, 1)
+slider_7_color: rgba(83, 170, 227, 1)
+title_block_review_7: Кирилл Лада Веста
+font_size_title_block_review_7: 24px
+font_color_title_block_review_7: rgba(39, 39, 39, 1)
+text_review_7: Я из области и выставив авто на авито - меня начали задалбывать звонками, распросами - больше десятка человек даже сказали, что приедут - в итоге я менял свои планы, подстраивался под людей, а никто не приехал. После этого снял объявление и оставил заявку на сайте Картека. По телефону меня сориентировали по всем вопросам - я сообщил удобное для меня время встречи. Ко мне приехали, в течение 10 минут осмотрели авто и мы составили договор-купли продажи. Деньги я попросил перевести мне на карту - ребята так и сделали. Я доволен.
+font_size_text_review_7: 18px
+font_color_text_review_7: rgba(39, 39, 39, 1)
+title_btn_expand_review_7: Читать отзыв полностью
+font_size_title_btn_expand_review_7: 18px
+font_color_title_btn_expand_review_7: rgba(83, 170, 227, 1)
+title_full_review_7: Кирилл Лада Веста
+link_image_review_7: https://carteca.ru/wp-content/themes/carteca/media/reviews/car-7.jpeg
+title_price_karteka_7: 'Цена через Картеку:'
+font_size_title_price_karteka_7: 18px
+font_color_title_price_karteka_7: rgba(0, 0, 0, 1)
+price_karteka_7: 730 000 ₽
+font_size_price_karteka_7: 30px
+font_color_price_karteka_7: rgba(39, 39, 39, 1)
+title_price_other_7: 'Цена через других:'
+font_size_title_price_other_7: 14px
+font_color_title_price_other_7: rgba(39, 39, 39, 1)
+price_other_7: 640 000 ₽
+font_size_price_other_7: 20px
+font_color_price_other_7: rgba(39, 39, 39, 1)
+title_icon_btn_back: icon_button_back_reviews
+background_color_btn_back_not_cursor: rgb(134, 236, 199) 12.81%, rgb(121, 207, 135) 90.2%
+background_color_btn_back_with_cursor:  rgb(121, 207, 135) 12.81%, rgb(134, 236, 199) 90.2%
+height_btn_back: 45px
+width_btn_back: 45px
+type_cursor_btn_back: pointer
+title_icon_btn_forward: icon_button_forward_reviews
+background_color_btn_forward_not_cursor: rgb(134, 236, 199) 12.81%, rgb(121, 207, 135) 90.2%
+background_color_btn_forward_with_cursor:  rgb(121, 207, 135) 12.81%, rgb(134, 236, 199) 90.2%
+height_btn_forward: 45px
+width_btn_forward: 45px
+type_cursor_btn_forward: pointer
+title_icon_price: icon_price_reviews
+type_cursor_btn_expand_review: pointer
+img_btn_back_review: btn_back_review
+img_btn_forward_review: btn_forward_review
+img_slider_4_review: slider_4_review
+img_slider_2_review: slider_2_review
+type_cursor_slider: pointer

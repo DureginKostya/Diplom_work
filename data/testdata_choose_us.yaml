@@ -1,0 +1,29 @@
+url: https://carteca.ru/
+font: TT Norms
+title_choose_us: Почему выбирают нас?
+font_size_title_choose_us: 50px
+font_color_registration_symbol: rgba(39, 39, 39, 1)
+explanation_choose_us: Мы сотрудничаем с 70+ автовыкупами Нижнего Новгорода. Благодаря нашей IT-платформе, в течении 10 минут Вы получите лучшее предложение цены по вашей заявке.
+font_size_explanation_choose_us: 20px
+font_color_explanation_choose_us: rgba(0, 0, 0, 1)
+title_best_price: Гарантия лучшей цены
+font_size_title_best_price: 20px
+font_color_title_best_price: rgba(39, 39, 39, 1)
+description_best_price: Подберем для Вас лучшую цену среди всех автовыкупов Нижнего Новгорода
+font_size_description_best_price: 16px
+font_color_description_best_price: rgba(140, 140, 140, 1)
+title_free_support: Бесплатное сопровождение
+font_size_title_free_support: 20px
+font_color_title_free_support: rgba(39, 39, 39, 1)
+description_free_support: Выезд для оценки, диагностика, оформление документов и эвакуатор
+font_size_description_free_support: 16px
+font_color_description_free_support: rgba(140, 140, 140, 1)
+title_all_money: Все деньги сразу
+font_size_title_all_money: 20px
+font_color_title_all_money: rgba(39, 39, 39, 1)
+description_all_money: Выплата полной стоимости авто сразу наличными или на карту
+font_size_description_all_money: 16px
+font_color_description_all_money: rgba(140, 140, 140, 1)
+title_icon_best_price: icon_best_price_choose_us
+title_icon_free_support: icon_free_support_choose_us
+title_icon_all_money: icon_all_money_choose_us

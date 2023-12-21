@@ -1,0 +1,48 @@
+url: https://carteca.ru/
+font: TT Norms
+title_thank_you_page: Благодарим за доверие!
+title_policy_page: Политика конфиденциальности
+title_main_page: Выкуп автомобилей
+font_size_title_main_page: 70px
+font_color_title_main_page: rgba(39, 39, 39, 1)
+subtitle_main_page: в Нижнем Новгороде и области
+font_size_subtitle_main_page: 50px
+font_color_subtitle_main_page: rgba(39, 39, 39, 1)
+benefits_urgently_main_page: Срочно
+font_size_benefits_urgently_main_page: 20px
+font_color_benefits_urgently_main_page: rgba(39, 39, 39, 1)
+benefits_expensive_main_page: Дорого
+font_size_benefits_expensive_main_page: 20px
+font_color_benefits_expensive_main_page: rgba(39, 39, 39, 1)
+benefits_around_clock_main_page: Круглосуточно
+font_size_benefits_around_clock_main_page: 20px
+font_color_benefits_around_clock_main_page: rgba(39, 39, 39, 1)
+title_field_phone_main_page: Оставьте ваш телефон для выкупа автомобиля
+font_size_title_field_phone_main_page: 20px
+font_color_title_field_phone_main_page: rgba(39, 39, 39, 1)
+title_btn_sell_main_page: Продать авто дорого
+font_size_title_btn_sell_main_page: 18px
+font_color_title_btn_sell_main_page: rgba(255, 255, 255, 1)
+background_color_btn_sell_main_page_not_cursor: rgb(121, 207, 135) 12.81%, rgb(134, 236, 199) 90.2%
+background_color_btn_sell_main_page_with_cursor: rgb(134, 236, 199) 12.81%, rgb(121, 207, 135) 90.2%
+height_btn_sell_main_page: 78px
+width_btn_sell_main_page: 295px
+type_cursor_btn_sell_main_page: pointer
+height_field_phone_main_page: 92px
+width_field_phone_main_page: 588px
+field_phone_text_main_page: +7 (999) 999-99-99
+font_size_field_phone_text_main_page: 20px
+font_color_field_phone_text_main_page: rgba(39, 39, 39, 1)
+background_color_field_phone_main_page: rgba(255, 255, 255, 1)
+type_cursor_field_phone_text_main_page: text
+title_btn_policy_main_page: Я согласен на обработку моих персональных данных согласно условиям политики конфиденциальности
+font_size_title_btn_policy_main_page: 16px
+font_color_title_btn_policy_main_page: rgba(189, 189, 189, 1)
+type_cursor_policy: pointer
+test_data_positive_var1_field_phone: '+79123456782'
+test_data_negative_var1_field_phone: '+7912345678'
+test_data_negative_var2_field_phone: '+791234567895'
+test_data_negative_var3_field_phone: '+7ыавсмневый'
+test_data_negative_var4_field_phone: '+7argfbjiofd'
+test_data_negative_var5_field_phone: '+7!@#$%#@%$!'
+test_data_negative_var6_field_phone: '892153487923'

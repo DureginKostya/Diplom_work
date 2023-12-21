@@ -1,0 +1,64 @@
+url: https://carteca.ru/
+font: TT Norms
+title_back_call: Оставьте ваши контакты
+font_size_title_back_call: 36px
+font_color_title_back_call: rgba(39, 39, 39, 1)
+subtitle_back_call: Мы свяжемся с Вами в ближайшее время
+font_size_subtitle_back_call: 20px
+font_color_subtitle_back_call: rgba(39, 39, 39, 1)
+title_btn_sell: Продать авто дорого
+font_size_title_btn_sell: 18px
+font_color_title_btn_sell: rgba(255, 255, 255, 1)
+background_color_btn_sell_not_cursor: rgb(121, 207, 135) 12.81%, rgb(134, 236, 199) 90.2%
+background_color_btn_sell_with_cursor: rgb(134, 236, 199) 12.81%, rgb(121, 207, 135) 90.2%
+height_btn_sell: 70px
+width_btn_sell: 470px
+type_cursor_btn_sell: pointer
+field_phone_text: +7 (999) 999-99-99
+font_size_field_phone_text: 16px
+font_color_field_phone_text: rgba(39, 39, 39, 1)
+background_color_field_phone: rgba(245, 244, 244, 1)
+height_field_phone: 65px
+width_field_phone: 470px
+type_cursor_field_phone_text: text
+field_name_text: Введите ваше имя
+font_size_field_name_text: 16px
+font_color_field_name_text: rgba(39, 39, 39, 1)
+background_color_name_phone: rgba(245, 244, 244, 1)
+height_field_name: 65px
+width_field_name: 470px
+type_cursor_field_name_text: text
+title_btn_policy: Нажимая на кнопку Вы даёте согласие на обработку персональных данных
+font_size_title_btn_policy: 16px
+font_color_title_btn_policy: rgba(189, 189, 189, 1)
+type_cursor_btn_policy: pointer
+title_thank_you_page: Благодарим за доверие!
+title_policy_page: Политика конфиденциальности
+td_negative_var1_field_name: ''
+td_negative_var1_field_phone: '+79121002020'
+td_negative_var2_field_name: 'одджОДДЖшхщшцуетбьпыА'
+td_negative_var2_field_phone: '+79504005060'
+td_negative_var3_field_name: 'Ив-ан'
+td_negative_var3_field_phone: '+7914222102'
+td_negative_var4_field_name: 'Ив-ан'
+td_negative_var4_field_phone: '+791000014123'
+td_negative_var5_field_name: 'ZWQxr'
+td_negative_var5_field_phone: '+79051112030'
+td_negative_var6_field_name: '12345'
+td_negative_var6_field_phone: '+79999998877'
+td_negative_var7_field_name: '#$@%!'
+td_negative_var7_field_phone: '+79998887766'
+td_negative_var8_field_name: 'Ив-ан'
+td_negative_var8_field_phone: '+7двоаТИВвшц'
+td_negative_var9_field_name: 'Ив-ан'
+td_negative_var9_field_phone: '+7HKNGdskUGB'
+td_negative_var10_field_name: 'Ив-ан'
+td_negative_var10_field_phone: '+7!@#$%^&*^\'
+td_negative_var11_field_name: 'Ив-ан'
+td_negative_var11_field_phone: '899988877123'
+td_positive_var1_field_name: 'Б'
+td_positive_var1_field_phone: '+79111111111'
+td_positive_var2_field_name: 'ЛГПвтладу-ароытаТИПВ'
+td_positive_var2_field_phone: '+79111111111'
+td_positive_var3_field_name: 'Ла-да'
+td_positive_var3_field_phone: '+79120004545'

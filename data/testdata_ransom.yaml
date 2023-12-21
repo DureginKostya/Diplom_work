@@ -1,0 +1,45 @@
+url: https://carteca.ru/
+font: TT Norms
+title_ransom: Как проходит выкуп?
+font_size_title_ransom: 50px
+font_color_title_ransom: rgba(39, 39, 39, 1)
+title_number_step_1_ransom: '1'
+font_size_title_number_step_1_ransom: 55px
+font_color_title_number_step_1_ransom: rgb(255, 255, 255)
+title_application_evaluation_ransom: Заявка и оценка
+font_size_title_application_evaluation_ransom: 24px
+font_color_title_application_evaluation_ransom: rgba(39, 39, 39, 1)
+description_application_evaluation_ransom: Оставляете заявку или звоните, мы подбираем самое лучшее предложение
+font_size_description_application_evaluation_ransom: 18px
+font_color_description_application_evaluation_ransom: rgba(39, 39, 39, 1)
+title_number_step_2_ransom: '2'
+font_size_title_number_step_2_ransom: 55px
+font_color_title_number_step_2_ransom: rgb(255, 255, 255)
+title_departure_inspection_ransom: Выезд и осмотр
+font_size_title_departure_inspection_ransom: 24px
+font_color_title_departure_inspection_ransom: rgba(39, 39, 39, 1)
+description_departure_inspection_ransom: Специалист приезжает в удобное для Вас место и проводит осмотр
+font_size_description_departure_inspection_ransom: 18px
+font_color_description_departure_inspection_ransom: rgba(39, 39, 39, 1)
+title_number_step_3_ransom: '3'
+font_size_title_number_step_3_ransom: 55px
+font_color_title_number_step_3_ransom: rgb(255, 255, 255)
+title_registration_redemption_ransom: Оформление и выкуп
+font_size_title_registration_redemption_ransom: 24px
+font_color_title_registration_redemption_ransom: rgba(39, 39, 39, 1)
+description_registration_redemption_ransom: Все документы оформляются на месте без лишней головной боли
+font_size_description_registration_redemption_ransom: 18px
+font_color_description_registration_redemption_ransom: rgba(39, 39, 39, 1)
+title_number_step_4_ransom: '4'
+font_size_title_number_step_4_ransom: 55px
+font_color_title_number_step_4_ransom: rgb(255, 255, 255)
+title_cash_back_ransom: Получаете деньги
+font_size_title_cash_back_ransom: 24px
+font_color_title_cash_back_ransom: rgba(39, 39, 39, 1)
+description_cash_back_ransom: Всю сумму сразу наличными или на карту, по Вашему желанию
+font_size_description_cash_back_ransom: 18px
+font_color_description_cash_back_ransom: rgba(39, 39, 39, 1)
+title_icon_application_evaluation: icon_application_evaluation_ransom
+title_icon_departure_inspection: icon_departure_inspection_ransom
+title_icon_registration_redemption: icon_registration_redemption_ransom
+title_icon_cash_back: icon_cash_back_ransom

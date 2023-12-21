@@ -1,0 +1,51 @@
+url: https://carteca.ru/
+font: TT Norms
+title_questions_answers: Вопросы и ответы
+font_size_title_questions_answers: 50px
+font_color_title_questions_answers: rgba(39, 39, 39, 1)
+title_question_1: Сколько денег я получу за свой автомобиль?
+font_size_title_question_1: 20px
+font_color_title_question_1: rgba(39, 39, 39, 1)
+title_answer_1: 'Множество факторов влияет на стоимость автомобиля: востребованность марки и модели на рынке, год выпуска и пробег, состояние кузова и салона, количество владельцев, техническое состояние, обременения.'
+font_size_title_answer_1: 18px
+font_color_title_answer_1: rgba(39, 39, 39, 1)
+title_question_2: Как мне получить самую выгодную цену?
+font_size_title_question_2: 20px
+font_color_title_question_2: rgba(39, 39, 39, 1)
+title_answer_2: Достаточно оставить заявку, остальную работу сделаем мы.
+font_size_title_answer_2: 18px
+font_color_title_answer_2: rgba(39, 39, 39, 1)
+title_question_3: Сколько времени у меня займет продажа?
+font_size_title_question_3: 20px
+font_color_title_question_3: rgba(39, 39, 39, 1)
+title_answer_3: Если вы находитесь в Нижнем Новгороде, то продажа занимает в среднем 2 часа. При необходимости выезда в область - нужно добавить время на дорогу.
+font_size_title_answer_3: 18px
+font_color_title_answer_3: rgba(39, 39, 39, 1)
+title_question_4: Могу ли я продать битое авто?
+font_size_title_question_4: 20px
+font_color_title_question_4: rgba(39, 39, 39, 1)
+title_answer_4: Да. Зачастую время и деньги потраченные собственником на ремонт автомобиля - не позволят получить ему финансовую выгоды. Самый быстрый, удобный и экономически выгодный вариант - быстро продать битый авто.
+font_size_title_answer_4: 18px
+font_color_title_answer_4: rgba(39, 39, 39, 1)
+title_question_5: Могу ли я продать кредитное авто?
+font_size_title_question_5: 20px
+font_color_title_question_5: rgba(39, 39, 39, 1)
+title_answer_5: Да. Часть автовыкупов работает с кредитными или залоговыми автомобилями. Мы подберем для вас самое лучшее предложение.
+font_size_title_answer_5: 18px
+font_color_title_answer_5: rgba(39, 39, 39, 1)
+title_question_6: Как оформляется договор?
+font_size_title_question_6: 20px
+font_color_title_question_6: rgba(39, 39, 39, 1)
+title_answer_6: Оформление сделки происходит строго по законодательству РФ. ДКП (договор купли-продажи) составляется в 3 экземплярах. Все нюансы оформления в нетипичных ситуациях мы берем на себя. Подписание документов происходит на месте совершения сделки.
+font_size_title_answer_6: 18px
+font_color_title_answer_6: rgba(39, 39, 39, 1)
+title_question_7: Нужно ли мне платить за что-то ещё?
+font_size_title_question_7: 20px
+font_color_title_question_7: rgba(39, 39, 39, 1)
+title_answer_7: Нет. Оценка автомобиля — бесплатно. Выезд оценщика — бесплатно. Эвакуатор для авто, если он необходим — бесплатно. Выезд в любо город области — бесплатно!
+font_size_title_answer_7: 18px
+font_color_title_answer_7: rgba(39, 39, 39, 1)
+title_button_expand: fill-base plus
+title_button_collapse: fill-base minus
+background_color_button: rgb(121, 207, 135) 15.71%, rgb(134, 236, 199) 86.24%
+type_cursor_button: pointer

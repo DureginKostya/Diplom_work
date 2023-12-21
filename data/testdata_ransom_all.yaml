@@ -1,0 +1,38 @@
+url: https://carteca.ru/
+font: TT Norms
+title_ransom_all: Выкупаем все марки авто в любом состоянии
+font_size_title_ransom_all: 50px
+font_color_title_ransom_all: rgba(39, 39, 39, 1)
+title_block_new_old: Новые и старые
+font_size_title_block_new_old: 18px
+font_color_title_block_new_old: rgba(39, 39, 39, 1)
+link_image_block_new_old: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-1.jpg
+title_block_premium: Премиум класса
+font_size_title_block_premium: 18px
+font_color_title_block_premium: rgba(39, 39, 39, 1)
+link_image_block_premium: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-2.jpg
+title_block_broken: Неисправные
+font_size_title_block_broken: 18px
+font_color_title_block_broken: rgba(39, 39, 39, 1)
+link_image_block_broken: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-3.jpg
+title_block_credit: Кредитные и залоговые
+font_size_title_block_credit: 18px
+font_color_title_block_credit: rgba(39, 39, 39, 1)
+link_image_block_credit: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-4.jpg
+title_block_emergency: Битые и аварийные
+font_size_title_block_emergency: 18px
+font_color_title_block_emergency: rgba(39, 39, 39, 1)
+link_image_block_emergency: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-5.jpg
+title_block_duplicate_pts: С дубликатом ПТС
+font_size_title_block_duplicate_pts: 18px
+font_color_title_block_duplicate_pts: rgba(39, 39, 39, 1)
+link_image_block_duplicate_pts: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-6.jpg
+title_block_arrested: Арестованные
+font_size_title_block_arrested: 18px
+font_color_title_block_arrested: rgba(39, 39, 39, 1)
+link_image_block_arrested: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-7.jpg
+title_block_problem: Проблемные
+font_size_title_block_problem: 18px
+font_color_title_block_problem: rgba(39, 39, 39, 1)
+link_image_block_problem: https://carteca.ru/wp-content/themes/carteca/media/autos/auto-8.jpg
+title_stub: Автомобиль

@@ -1,0 +1,9 @@
+url: https://carteca.ru/
+font: TT Norms
+title_thank_you_window: Благодарим за доверие!
+font_size_title_thank_you_window: 36px
+font_color_title_thank_you_window: rgba(39, 39, 39, 1)
+subtitle_thank_you_window: Мы свяжемся с Вами в ближайшее время
+font_size_subtitle_thank_you_window: 20px
+font_color_subtitle_thank_you_window: rgba(39, 39, 39, 1)
+title_icon: icon_thank_you_window

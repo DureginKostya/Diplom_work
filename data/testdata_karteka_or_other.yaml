@@ -1,0 +1,43 @@
+url: https://carteca.ru/
+font: TT Norms
+title_karteka_or_other: Картека или самостоятельно?
+font_size_title_karteka_or_other: 50px
+font_color_title_karteka_or_other: rgba(39, 39, 39, 1)
+title_selling_karteka:  Продажа через Картеку
+font_size_title_selling_karteka: 24px
+font_color_title_selling_karteka: rgba(39, 39, 39, 1)
+title_selling_other: Продажа самостоятельно
+font_size_title_selling_other: 24px
+font_color_title_selling_other: rgba(39, 39, 39, 1)
+selling_karteka_paragraph_1: Продажа в среднем всего за 2 часа
+font_size_selling_karteka_paragraph_1: 18px
+font_color_selling_karteka_paragraph_1: rgba(39, 39, 39, 1)
+selling_karteka_paragraph_2: Полная юридическая чистота, обман исключён
+font_size_selling_karteka_paragraph_2: 18px
+font_color_selling_karteka_paragraph_2: rgba(39, 39, 39, 1)
+selling_karteka_paragraph_3: Всего 1 звонок или заявка на сайте
+font_size_selling_karteka_paragraph_3: 18px
+font_color_selling_karteka_paragraph_3: rgba(39, 39, 39, 1)
+selling_karteka_paragraph_4: Полностью бесплатное сопровождение продажи
+font_size_selling_karteka_paragraph_4: 18px
+font_color_selling_karteka_paragraph_4: rgba(39, 39, 39, 1)
+selling_karteka_paragraph_5: Отсутствие каких-либо дополнительных расходов
+font_size_selling_karteka_paragraph_5: 18px
+font_color_selling_karteka_paragraph_5: rgba(39, 39, 39, 1)
+selling_other_paragraph_1: Продажа в среднем за 37 дней
+font_size_selling_other_paragraph_1: 18px
+font_color_selling_other_paragraph_1: rgba(39, 39, 39, 1)
+selling_other_paragraph_2: Высокая вероятность обмана при продаже
+font_size_selling_other_paragraph_2: 18px
+font_color_selling_other_paragraph_2: rgba(39, 39, 39, 1)
+selling_other_paragraph_3: Время впустую на разговоры и показ автомобиля
+font_size_selling_other_paragraph_3: 18px
+font_color_selling_other_paragraph_3: rgba(39, 39, 39, 1)
+selling_other_paragraph_4: Трата денег на предпродажную подготовку
+font_size_selling_other_paragraph_4: 18px
+font_color_selling_other_paragraph_4: rgba(39, 39, 39, 1)
+selling_other_paragraph_5: Трата времени и денег на объявления о продаже
+font_size_selling_other_paragraph_5: 18px
+font_color_selling_other_paragraph_5: rgba(39, 39, 39, 1)
+title_icon_selling_karteka: icon_selling_karteka_karteka_or_other
+title_icon_selling_other: icon_selling_other_karteka_or_other
